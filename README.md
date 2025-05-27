@@ -1,7 +1,7 @@
 <h1 align="center">Notebook v2.0 </h1>
 
 <p align="center">
-<img src="img/UI.PNG">
+<img src="img/UI.png">
 </p>
 
 ## 🔗 Table of Contents
