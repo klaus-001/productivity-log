@@ -65,11 +65,13 @@ pip install PyQt5
 
 ## 📂 Project Structure
 
-notebook-v2.0/  
-├── main.py  
-├── img/  
-├── README.md  
-└── data.json  
+```
+notebook-v2.0/
+├── main.py
+├── img/
+├── README.md
+└── data.json
+```
 
 ## 🛠️ Technologies Used
 
